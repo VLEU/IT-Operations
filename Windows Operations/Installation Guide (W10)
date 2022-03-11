@@ -1,0 +1,24 @@
+This guide will assist you with the installation process for Windows 10 versions (All versions from Home to Enterprise (non-LTSB/LTSC) share the same installer).
+
+## 1. Check system requirements
+It is very likely that your computer meets the minimum requirements already, but this section has been included for peace of mind, as there are a lot of folks who are running old or very old hardware.
+
+The official system requirements for Windows 10, as provided by Microsoft, are the following:
+
+- Processor:	1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)
+- RAM: 	1 gigabyte (GB) for 32-bit or 2 GB for 64-bit 
+- Hard drive size: 32GB or larger hard disk
+- Graphics card:	Compatible with DirectX 9 or later with WDDM 1.0 driver
+- Display:	800x600
+- Internet Connection:	Internet connectivity is necessary to perform updates and to download and take advantage of some features. 
+
+These requirements may change over time. To see the most recent version of these requirements, please access [Microsoft's Website](https://www.microsoft.com/en-us/windows/windows-10-specifications)
+
+## 2. Create USB installation media (if needed)
+If you do not already have a Windows 10 installation disk or flash drive, or you simply want to create your own, you can create one by accessing [this link](https://www.microsoft.com/en-us/software-download/windows10) and clicking on "Download Tool Now".
+
+You will want to use a flash drive to install Windows on your computer, but other options are also possible (CD/DVD ISO File).
+
+## 3.
+
+[TBA - too tired to continue]
