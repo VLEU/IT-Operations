@@ -1,4 +1,5 @@
 This guide will assist you with the installation process for Windows 10 versions (All versions from Home to Enterprise (non-LTSB/LTSC) share the same installer).
+We will assume that the host machine for creating the bootable USB drive is a Windows machine. If you are trying to create a bootable Windows drive from a Linux machine, check the other guide (which, for now, does not exist :( oof)
 
 ## 1. Check system requirements
 It is very likely that your computer meets the minimum requirements already, but this section has been included for peace of mind, as there are a lot of folks who are running old or very old hardware.
@@ -17,8 +18,18 @@ These requirements may change over time. To see the most recent version of these
 ## 2. Create USB installation media (if needed)
 If you do not already have a Windows 10 installation disk or flash drive, or you simply want to create your own, you can create one by accessing [this link](https://www.microsoft.com/en-us/software-download/windows10) and clicking on "Download Tool Now".
 
-You will want to use a flash drive to install Windows on your computer, but other options are also possible (CD/DVD ISO File).
+You will want to use a blank flash drive that has at least 8GB of blank space to install Windows on your computer, but other options are also possible (CD/DVD).
 
-## 3.
+## 3. Run the installer
+Double click on the installer to open it. Read through (I am sure you will do that, ugh) the Terms of Service and accept them.
+
+At the next step, you will be asked what you want to do. Simply select the button that says "Create installation media for another PC".
+Choose the type of media you want to use. For the sake of this tutorial (and my sanity; I have only slept 4 hours in the past 32 hours), we will choose "USB Flash Drive" installation.
+
+Click next, and plug in your flash drive (if you haven't done it already). Select the appropriate flash drive from the list (or click on "refresh drive list" if nothing shows up) and proceed further.
+
+The setup tool will now create the bootable USB flash drive. Please note that the tool will need to download a rather hefty ammount of files, and this might take a while (depending on your internet connection).
+
+At the end, you will be informed that the flash drive is ready to use. Simply click on "finish"
 
 [TBA - too tired to continue]
