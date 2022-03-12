@@ -2,7 +2,7 @@ This guide will assist you with the installation process for Windows 10 versions
 We will assume that the host machine for creating the bootable USB drive is a Windows machine. If you are trying to create a bootable Windows drive from a Linux machine, check the other guide (which, for now, does not exist :( oof)
 
 ## 1. Check system requirements
-It is very likely that your computer meets the minimum requirements already, but this section has been included for peace of mind, as there are a lot of folks who are running old or very old hardware.
+It is very likely that your computer meets the minimum requirements already, but this section has been included for peace of mind, as there are a lot of folks who are running old or very old hardware. If your computer does not meet these system requirements, perhaps it is time to get a new one (or switch to a Linux distribution).
 
 The official system requirements for Windows 10, as provided by Microsoft, are the following:
 
@@ -30,6 +30,14 @@ Click next, and plug in your flash drive (if you haven't done it already). Selec
 
 The setup tool will now create the bootable USB flash drive. Please note that the tool will need to download a rather hefty ammount of files, and this might take a while (depending on your internet connection).
 
-At the end, you will be informed that the flash drive is ready to use. Simply click on "finish"
+At the end, you will be informed that the flash drive is ready to use. Simply click on "finish".
+
+## 4. Boot into BIOS & Change Boot Order
+(or simply boot from device, if your BIOS offers this feature)
+
+The process of booting into BIOS differs from device to device; the general strategy would be to spam the F2, F12 and Delete keys as the computer boots up.
+If the computer you want to install windows on has a blank drive, you might not even have to do this step (as it would automatically boot into BIOS).
+
+Once you have access to the BIOS menu, you will need to locate the boot order settings.
 
 [TBA - too tired to continue]
