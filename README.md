@@ -7,4 +7,4 @@ This repository aims to serve as a general guide for IT Operations, including (b
 - [ ] Basic Linux Operations (which distro? might go with Debian)
 - [ ] TBA
 
-## The plan is to first create some surface-level info sheets and guides and then dive deeper into specific sections/elements/concepts.
+### The plan is to first create some surface-level info sheets and guides and then dive deeper into specific sections/elements/concepts.
